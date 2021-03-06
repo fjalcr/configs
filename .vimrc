@@ -10,7 +10,7 @@ set showmatch
 set sw=2
 set relativenumber
 set laststatus=2
-
+set splitbelow
 " Call Plugins
 so ~/.config/.vim/plugins.vim
 
@@ -21,4 +21,3 @@ so ~/.config/.vim/plugin-config/gruvbox.config.vim
 
 " Keymaps
 so ~/.config/.vim/maps.vim
-
