@@ -11,6 +11,7 @@ set sw=2
 set relativenumber
 set laststatus=2
 set splitbelow
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 " Call Plugins
 so ~/.config/.vim/plugins.vim
 

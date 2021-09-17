@@ -4,6 +4,9 @@ nmap <Leader>s <Plug>(easymotion-s2)
 nmap <Leader>nt :NERDTreeFind<CR>
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
+nmap <Leader>fq :q!<CR>
+nmap <Leader>fw :w!<CR>
+nmap <Leader>wq :wq<CR>
 
 nmap <Leader>gh :diffget //3<CR>
 nmap <Leader>gu :diffget //2<CR>
