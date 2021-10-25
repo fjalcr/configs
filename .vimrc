@@ -18,6 +18,7 @@ so ~/.config/.vim/plugins.vim
 " Confings
 so ~/.config/.vim/plugin-config/fzf.config.vim
 so ~/.config/.vim/plugin-config/NERDTree.config.vim
+so ~/.config/.vim/plugin-config/coc.config.vim
 so ~/.config/.vim/plugin-config/gruvbox.config.vim
 
 " Keymaps
